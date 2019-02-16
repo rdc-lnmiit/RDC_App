@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RDC</string>
+    <string name="text_view_hint">Loren Impsum</string>
+    <string name="main_title">Rural Development Cell - LNMIIT</string>
 </resources>
